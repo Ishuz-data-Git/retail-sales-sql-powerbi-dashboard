@@ -263,18 +263,3 @@ FROM (
         ON c.customer_id = o.customer_id
     GROUP BY c.customer_id, c.customer_name
 ) AS rfm_table;
-
-select * from rfm_analysis;
-
-
-
-
-
-
-
-
-
-
-
-
-

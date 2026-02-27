@@ -41,6 +41,7 @@ At Risk Customers
 Loyal base is limited — opportunity to increase retention
 One customer identified as At Risk
 Sales growth shows strong upward YoY trend
+
 📁 Project Structure
 Main Executive Dashboard
 Product Drill-through Page

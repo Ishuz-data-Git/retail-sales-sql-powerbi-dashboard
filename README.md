@@ -57,7 +57,19 @@ Identify high-value customers
 Detect churn risk
 Optimize revenue strategy
 
-## Dashboard Preview
+## 📊 Dashboard Preview
+
+### Main Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Product Drill Through Page
+![Product Detail](screenshots/product-detail.png)
+
+---
+
+### RFM Customer Segmentation
+![RFM](screenshots/rfm-analysis.png)
 
 Created by: Ishu Singh

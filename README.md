@@ -1,6 +1,6 @@
-📊 Retail Sales Performance Dashboard (SQL + Power BI)
+# 📊 Retail Sales Performance Dashboard (SQL + Power BI)
 
-🔍 Project Overview
+## 🔍 Project Overview
 
 This project presents a complete Retail Sales Analysis solution integrating SQL data modeling with Power BI interactive visualization.
 The dashboard provides executive-level insights into sales performance, profitability, customer behavior, and RFM-based segmentation.
@@ -12,7 +12,7 @@ Power BI (Data Modeling & Visualization)
 DAX (Measures & KPIs)
 Star Schema Data Model
 
-📈 Key Features
+## 📈 Key Features
 
 ✔ Total Sales, Profit & Customer KPIs
 ✔ Year-over-Year (YoY) Growth %
@@ -23,7 +23,7 @@ Star Schema Data Model
 ✔ Custom Tooltip Page
 ✔ Customer RFM Segmentation Dashboard
 
-📊 RFM Segmentation Logic
+## 📊 RFM Segmentation Logic
 
 Customers are segmented based on:
 Recency (Days since last purchase)
@@ -35,21 +35,22 @@ Loyal Customers
 Potential Customers
 At Risk Customers
 
-📌 Key Business Insights
+## 📌 Key Insights
 
-60% customers fall under Potential segment
-Loyal base is limited — opportunity to increase retention
-One customer identified as At Risk
-Sales growth shows strong upward YoY trend
+- Sales increased 301% YoY
+- Profit margin stable at 16%
+- 60% customers fall under Potential segment
+- Only 1 customer at risk (retention opportunity)
+- Loyal customer base small — growth opportunity
 
-📁 Project Structure
+## 📁 Project Structure
 
 Main Executive Dashboard
 Product Drill-through Page
 Tooltip Detail Page
 RFM Customer Segmentation Page
 
-💡 Business Value
+## 💡 Business Value
 
 This dashboard helps business stakeholders:
 Track performance trends

@@ -1,53 +1,57 @@
-# Retail Sales Performance Dashboard
+📊 Retail Sales Performance Dashboard (SQL + Power BI)
 
-## 📊 Project Overview
-This project analyzes retail sales performance (2023–2024) using MySQL and Power BI.
+🔍 Project Overview
 
-The goal is to transform raw transactional data into actionable business insights using SQL queries and interactive dashboards.
+This project presents a complete Retail Sales Analysis solution integrating SQL data modeling with Power BI interactive visualization.
+The dashboard provides executive-level insights into sales performance, profitability, customer behavior, and RFM-based segmentation.
 
----
+🛠 Tools & Technologies
 
-## 🛠 Tools Used
-- MySQL (Data Cleaning & Queries)
-- Power BI (Visualization & DAX)
-- GitHub (Version Control & Portfolio)
+MySQL (Data Cleaning & Aggregation)
+Power BI (Data Modeling & Visualization)
+DAX (Measures & KPIs)
+Star Schema Data Model
 
----
+📈 Key Features
 
-## 📌 Key KPIs
-- Total Sales
-- Total Profit
-- Total Orders
-- Profit Margin %
+✔ Total Sales, Profit & Customer KPIs
+✔ Year-over-Year (YoY) Growth %
+✔ Profit Margin Calculation
+✔ Monthly Sales & Profit Trend Analysis
+✔ Top 5 Products by Revenue
+✔ Drill-through Product Detail Page
+✔ Custom Tooltip Page
+✔ Customer RFM Segmentation Dashboard
 
----
+📊 RFM Segmentation Logic
 
-## 📈 Dashboard Features
-- Monthly Sales Trend
-- Monthly Profit Trend
-- Top 5 Products by Sales
-- Sales vs Profit Comparison
-- Drill-through Product Analysis
-- Dynamic Title using DAX
+Customers are segmented based on:
+Recency (Days since last purchase)
+Frequency (Total orders)
+Monetary (Total revenue contribution)
+Segments Created:
+Champions
+Loyal Customers
+Potential Customers
+At Risk Customers
 
----
+📌 Key Business Insights
 
-## 💡 Business Insights
-- Sales peaked in January 2024 indicating seasonal demand.
-- October shows comparatively lower performance.
-- Laptop category contributes highest revenue.
-- Profit margin remains stable around 16%.
-- 2024 sales show early signs of decline compared to 2023.
+60% customers fall under Potential segment
+Loyal base is limited — opportunity to increase retention
+One customer identified as At Risk
+Sales growth shows strong upward YoY trend
+📁 Project Structure
+Main Executive Dashboard
+Product Drill-through Page
+Tooltip Detail Page
+RFM Customer Segmentation Page
 
----
+💡 Business Value
 
-## 📂 Files Included
-- SQL Queries
-- Power BI Dashboard (.pbix)
-- Dashboard Screenshots
-
----
-
-## 👨‍💻 Created By
-Ishu Singh  
-Aspiring Data Analyst | SQL | Power BI | Data Visualization
+This dashboard helps business stakeholders:
+Track performance trends
+Identify high-value customers
+Detect churn risk
+Optimize revenue strategy
+Created by: Ishu Singh

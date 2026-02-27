@@ -54,4 +54,5 @@ Track performance trends
 Identify high-value customers
 Detect churn risk
 Optimize revenue strategy
+
 Created by: Ishu Singh

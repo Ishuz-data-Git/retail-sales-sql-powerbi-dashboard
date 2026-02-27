@@ -57,4 +57,7 @@ Identify high-value customers
 Detect churn risk
 Optimize revenue strategy
 
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
 Created by: Ishu Singh
